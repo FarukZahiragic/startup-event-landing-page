@@ -1,2 +1,2 @@
 # Startup-event-landing-page
-Startup event landing page with a button that directs you to a newsletter subscribe
+Startup event landing page with a button that directs you to a newsletter subscribe that was made with mailchimp.
